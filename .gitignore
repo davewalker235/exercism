@@ -1,0 +1,4 @@
+erlang/*/*
+!erlang/*/src
+erlang/*/src/*.beam
+erlang/*/src/*.src
