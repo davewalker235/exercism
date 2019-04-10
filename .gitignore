@@ -2,3 +2,8 @@ erlang/*/*
 !erlang/*/src
 erlang/*/src/*.beam
 erlang/*/src/*.src
+
+elixir/*/*_test.exs
+elixir/*/*.md
+elixir/*/.*
+elixir/*/hints
