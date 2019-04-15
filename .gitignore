@@ -7,3 +7,6 @@ elixir/*/*_test.exs
 elixir/*/*.md
 elixir/*/.*
 elixir/*/hints
+
+haskell/*/*
+!haskell/*/src
